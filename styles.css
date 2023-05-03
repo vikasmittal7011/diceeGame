@@ -1,0 +1,18 @@
+body {
+  font-family: "Cedarville Cursive", cursive;
+  text-align: center;
+  color: aqua;
+  background-color: rgb(63, 54, 54);
+}
+h1 {
+  font-size: 6rem;
+  padding: 2% 0;
+}
+h6 {
+  padding: 2%;
+  font-size: 2rem;
+}
+h4 {
+  padding: 1%;
+  font-size: 1.7rem;
+}
